@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.microsoft.sqlserver</groupId>
+	<artifactId>sqljdbc42</artifactId>
+	<version>4.2.6420.100</version>
+	<name>Microsoft JDBC Driver 6.0 for SQL Server</name>
+	<description>Requires a Java Runtime Environment (JRE) 8.0. Using JRE 7.0 or lower will throw an exception.
+
+New Features in 6.0 &amp; 4.2 packages include: JDBC 4.1 Compliance, JDBC 4.2 Compliance, and Bulk Copy
+
+In Addition, new Features in only the 6.0 package include: Always Encrypted and Internationalized Domain Name (IDN)</description>
+</project>

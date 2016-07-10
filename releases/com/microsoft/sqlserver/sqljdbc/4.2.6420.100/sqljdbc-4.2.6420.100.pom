@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.microsoft.sqlserver</groupId>
+	<artifactId>sqljdbc</artifactId>
+	<version>4.2.6420.100</version>
+	<name>Microsoft JDBC Driver 3.0 for SQL Server</name>
+	<description>Requires a Java Runtime Environment (JRE) of version 5.0. Using JRE 6.0 or higher will throw an exception when connecting to a database.
+
+Provided for backwards compatibility, and does not contain new features included with version 4.1 and 4.2 releases.</description>
+</project>
